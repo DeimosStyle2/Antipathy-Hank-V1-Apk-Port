@@ -1,0 +1,79 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        42,
+        -19
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "KNOCK IT OFFFFFFFFFFFFF"
+    },
+    {
+      "offsets": [
+        42,
+        -19
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "hey",
+      "indices": [],
+      "name": "KNOCK IT OFFFFFFFFFFFFF"
+    },
+    {
+      "offsets": [
+        42,
+        -19
+      ],
+      "indices": [
+        49,
+        49
+      ],
+      "fps": 24,
+      "anim": "omg",
+      "loop": true,
+      "name": "KNOCK IT OFFFFFFFFFFFFF instance 100"
+    },
+    {
+      "offsets": [
+        42,
+        -19
+      ],
+      "indices": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "fps": 24,
+      "anim": "talk",
+      "loop": false,
+      "name": "KNOCK IT OFFFFFFFFFFFFF instance 100"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/KNOWCXK IT OFFCCCFFF",
+  "position": [
+    -290,
+    70
+  ],
+  "healthicon": "hank",
+  "flip_x": false,
+  "healthbar_colors": [
+    24,
+    21,
+    40
+  ],
+  "camera_position": [
+    80,
+    0
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

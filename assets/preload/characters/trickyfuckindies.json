@@ -1,0 +1,102 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        1788,
+        1562
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "Trickt yeeted",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "offsets": [
+        1788,
+        1562
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "firstFrame",
+      "indices": [
+        0,
+        0
+      ],
+      "name": "Trickt yeeted"
+    },
+    {
+      "offsets": [
+        1788,
+        1562
+      ],
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "fps": 16,
+      "anim": "firstDeath",
+      "loop": false,
+      "name": "Trickt yeeted"
+    },
+    {
+      "offsets": [
+        1788,
+        1562
+      ],
+      "indices": [
+        4,
+        4
+      ],
+      "fps": 24,
+      "anim": "deathLoop",
+      "loop": true,
+      "name": "Trickt yeeted"
+    },
+    {
+      "offsets": [
+        1788,
+        1562
+      ],
+      "indices": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "fps": 16,
+      "anim": "deathConfirm",
+      "loop": false,
+      "name": "Trickt yeeted"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/tricky_yeeted",
+  "position": [
+    1700,
+    0
+  ],
+  "healthicon": "face",
+  "flip_x": false,
+  "healthbar_colors": [
+    161,
+    161,
+    161
+  ],
+  "camera_position": [
+    2470,
+    -750
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

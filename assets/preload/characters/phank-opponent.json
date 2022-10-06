@@ -1,0 +1,122 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        14,
+        0
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "P-Hank M DOWN0"
+    },
+    {
+      "offsets": [
+        51,
+        66
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "P-Hank M UP0"
+    },
+    {
+      "offsets": [
+        243,
+        49
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "hurt",
+      "indices": [],
+      "name": "P-Hank Hurt"
+    },
+    {
+      "offsets": [
+        157,
+        116
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "attack1",
+      "indices": [],
+      "name": "P-Hank ATK 1"
+    },
+    {
+      "offsets": [
+        13,
+        110
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "attack2",
+      "indices": [],
+      "name": "P-Hank ATK 2"
+    },
+    {
+      "offsets": [
+        -271,
+        32
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "block",
+      "indices": [],
+      "name": "P-Hank Block"
+    },
+    {
+      "offsets": [
+        -92,
+        -54
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "P-Hank M RIGHT0"
+    },
+    {
+      "offsets": [
+        31,
+        9
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "P-Hank M LEFT0"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -5,
+        0
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "P-Hank Idle",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/Playhank_Assets",
+  "position": [
+    -250,
+    70
+  ],
+  "healthicon": "hank",
+  "flip_x": true,
+  "healthbar_colors": [
+    24,
+    21,
+    40
+  ],
+  "camera_position": [
+    -170,
+    -80
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

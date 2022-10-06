@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				166,
+				127
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				190
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				127
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				99
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Kya",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				135
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				5
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				129
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				192
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				156
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				108
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				104
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "gf dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				183,
+				-42
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "gf ded loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				-31
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "gf ded confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				72,
+				136
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lockjaw_gruntfriend",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "grunthorror",
+	"flip_x": true,
+	"healthbar_colors": [
+		76,
+		8,
+		8
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
